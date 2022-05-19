@@ -7,13 +7,13 @@
 
         — Billy Gregory, Senior Accessibility Engineer
 
-### Starting With UX Research
+### 1-1 Starting With UX Research
 
 1. Define problem to be solved
 2. Questions with which UX designers are concerned
 3. Perform user-experience (design) research
 
-### Design Considerations
+### 1-2- Design Considerations
 
 1. Know your website user
 2. Favor the familiar
@@ -22,7 +22,7 @@
 5. How our minds process - a design consideration
 6. Determining User Flow
 
-### Design Factors
+### 1-3- Design Factors
 
 1. Usefulness
 2. Memory Interference
